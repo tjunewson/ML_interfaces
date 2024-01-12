@@ -12,7 +12,7 @@ A machine learning working script to predict interfacial chemistries
 
 ## input data
 - an initio simulations, e.g., AIMD modeling
-- data pre-analysis: AIMD
+- data pre-analysis: AIMDprobe
 - see https://github.com/tjunewson/AIMDprobe
 
 ## Contributors
@@ -23,4 +23,6 @@ Sihang Liu
 The Journal of Chemical Physics, 2023.
 
 *Heenen et al., Solvation at metal/water interfaces: An ab initio molecular dynamics benchmark of common computational approaches.* 
-The Journal of Chemical Physics, 2020.# ML_interfaces
+The Journal of Chemical Physics, 2020.
+
+# ML_interfaces
