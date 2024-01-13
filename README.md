@@ -11,7 +11,7 @@ A machine learning working script to predict interfacial chemistries
 - scipy
 
 ## input data
-- an initio simulations, e.g., AIMD modeling
+- ab initio simulations, e.g., AIMD modeling
 - data pre-analysis: AIMDprobe
 - see https://github.com/tjunewson/AIMDprobe
 
